@@ -11,6 +11,7 @@ gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
+gem 'faker'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 gem 'simple_form', github: 'heartcombo/simple_form'
 gem 'webpacker', '~> 5.0'
